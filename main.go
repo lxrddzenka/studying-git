@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-	"math"
 )
 
 /*
@@ -281,7 +280,7 @@ func simple(x int) bool {
 	return true
 }
 */
-/*
+
 func main() {
 	var a, b, c int
 	fmt.Scan(&a, &b, &c)
@@ -295,7 +294,8 @@ func SumRange(x, y int) int {
 	}
 	return sum
 }
-*/
+
+/*
 func main() {
 	var a, b float64
 	fmt.Scan(&a, &b)
@@ -317,3 +317,4 @@ func sumznach(m, n float64) int {
 	}
 	return int(sum)
 }
+*/
