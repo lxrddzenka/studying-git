@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"math"
 )
 
 /*
@@ -258,7 +259,7 @@ func countb(s string) int {
 	return count
 }
 */
-/*
+
 func main() {
 	var n int
 	fmt.Scan(&n)
@@ -279,8 +280,8 @@ func simple(x int) bool {
 	}
 	return true
 }
-*/
 
+/*
 func main() {
 	var a, b, c int
 	fmt.Scan(&a, &b, &c)
@@ -294,6 +295,7 @@ func SumRange(x, y int) int {
 	}
 	return sum
 }
+*/
 
 /*
 func main() {
